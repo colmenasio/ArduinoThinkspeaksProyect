@@ -1,9 +1,9 @@
-### Automatic Car Wiper
+# Automatic Car Wiper
 
 Computer Science Uni Proyect.
 Smart wiper model built in arduino for a group proyect.
 
-# Contents
+### Contents
 This repository contains:
 -  The wiper implementation itself
 -  The python code to connect said arduino to our pc for debugging purposes,
