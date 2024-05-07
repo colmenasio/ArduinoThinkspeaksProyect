@@ -11,7 +11,7 @@ class ioModule:
         self._pipeline = pipeline
         self._threads = {}
 
-        self._ts_api_key = 'TCQZUP8R63KBII6P'
+        self._ts_api_key = None # Insert you Api Key here
         self._ts_url = 'https://api.thingspeak.com/update'
 
     def do_startup(self):
