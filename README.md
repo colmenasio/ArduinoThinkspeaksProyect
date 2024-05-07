@@ -3,6 +3,7 @@
 Computer Science Uni Proyect.
 Smart wiper model built in arduino for a group proyect.
 
+# Contents
 This repository contains:
 -  The wiper implementation itself
 -  The python code to connect said arduino to our pc for debugging purposes,
